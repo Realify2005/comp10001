@@ -1,5 +1,5 @@
 # COMP10001
 
-- Tuesday 9am to 11am tutorial
-- PAR-175-L3-313
+- Occurence: Every Tuesday 9-11am
+- Location: PAR-175-L3-313
 
